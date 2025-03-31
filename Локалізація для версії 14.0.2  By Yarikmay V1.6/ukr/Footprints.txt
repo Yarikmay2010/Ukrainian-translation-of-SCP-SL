@@ -1,9 +1,0 @@
- (%time% ⏳)
- (+%influence% 👊)
-<color=%factionColor%>%timeDisplay%%influenceDisplay%</color>
-Виконані цілі будуть показані тут!
-<color=%achieverColor%>%achieverName%</color> вбив <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> завдав шкоди <color=%victimColor%>%victimName%</color>
-<color=%achieverColor%>%achieverName%</color> втік із комплексу
-<color=%achieverColor%>%achieverName%</color> активував <b>генератор</b>
-<color=%achieverColor%>%achieverName%</color> підібрав <color=red>%itemName%</color>
