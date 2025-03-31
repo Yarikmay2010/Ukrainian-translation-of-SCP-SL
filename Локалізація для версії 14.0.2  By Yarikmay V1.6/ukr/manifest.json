@@ -1,0 +1,26 @@
+{
+	"Name": "Y_Українська",
+	"Authors": [
+		"Mr. Yarikmay",
+		"Mr. Snowman",
+		"Mr. Anler",
+		"Mr. wayDAN",
+		"Mr. nestex"
+	],
+	"InterfaceLocales": [
+		"ukr-UKR",
+		"ukr"
+	],
+	"SystemLocales": [
+		"ukr-BY",
+		"ukr-KZ",
+		"ukr-KG",
+		"ukr-MD",
+		"ukr-RU",
+		"ukr-UA",
+		"ukr"
+	],
+	"ForcedFontOrder": [
+
+	]
+}

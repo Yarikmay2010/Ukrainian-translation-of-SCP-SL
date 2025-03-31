@@ -1,0 +1,10 @@
+<color=green>ВІДЧИНЕНО</color>
+<color=#07A2FF>ЗАЧИНЕНО</color>
+<color=orange>У РУСІ</color>
+<color=red>ЗАБЛОКО-\nВАНО</color>
+<color=red>ПОМИЛКА</color>
+<color=red>ДОСТУП ЗАБОРОНЕНО</color>
+<color=green>ДОСТУП ДОЗВОЛЕНИЙ</color>
+<color=#07A2FF>ПОТРІБНА КАРТА</color>
+<color=orange>ПРОХОДІТЬ</color>
+<color=orange>ЗАЧИНЯЄТЬСЯ</color>
