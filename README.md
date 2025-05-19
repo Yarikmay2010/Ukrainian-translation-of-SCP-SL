@@ -10,5 +10,5 @@ Mr. nestex
 
 Як завантажити?
 Читай тут - https://docs.google.com/document/d/1GewNcmuFFDpbWRvcH5VfSWjorjphCFcPJz4QWWDFAhk/edit?usp=sharing
-1098b1e
-Локалізація для версії 14.0.2 By Yarikmay V1.6\ukr\ActionCategory.txt
+
+Локалізація для версії 14.0.2 By Yarikmay V1.6
