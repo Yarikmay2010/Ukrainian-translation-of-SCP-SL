@@ -12,3 +12,7 @@ Mr. nestex
 Читай тут - https://docs.google.com/document/d/1GewNcmuFFDpbWRvcH5VfSWjorjphCFcPJz4QWWDFAhk/edit?usp=sharing
 
 Локалізація для версії 14.2.4 By Yarikmay V3.1
+
+3.1 (FixBug)
+
+Виправлена помилка в тексті у "стан з'єднання сервера"
