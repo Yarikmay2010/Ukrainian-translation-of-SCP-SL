@@ -11,7 +11,8 @@ Mr. nestex
 Як завантажити?
 Читай тут - https://docs.google.com/document/d/1GewNcmuFFDpbWRvcH5VfSWjorjphCFcPJz4QWWDFAhk/edit?usp=sharing
 
-Локалізація для версії 14.2.4 By Yarikmay V3.1
+Локалізація для версії 14.2.4 By Yarikmay V3.2
+
 
 Оновлення 3.2 (BugFix)
 
